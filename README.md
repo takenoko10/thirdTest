@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 # main
@@ -13,3 +14,7 @@
 
 ## mainEdit in braB
 
+=======
+# braA
+## braC
+>>>>>>> braC
